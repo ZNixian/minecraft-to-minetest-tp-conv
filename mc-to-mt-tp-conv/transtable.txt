@@ -33,6 +33,10 @@ default_diamond_block.png
 
 b/dirt.png
 default_dirt.png
+b/grass_side.png
+default_grass_side.png
+b/grass_side_snowed.png
+default_snow_side.png
 
 b/furnace_front_off.png
 default_furnace_front.png

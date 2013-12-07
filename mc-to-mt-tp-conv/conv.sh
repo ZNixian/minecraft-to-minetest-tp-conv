@@ -1,7 +1,7 @@
 #!/bin/bash
 cd "$(dirname "$0")"
 cd ..
-rm -rf textures
+rm -rf minetest-texture-pack
 rm -rf uctextures
 mkdir textures
 mkdir uctextures
